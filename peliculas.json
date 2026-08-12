@@ -1,17 +1,10 @@
 [
   {
-    "id": 1,
-    "titulo": "Película de Prueba",
-    "tipo": "pelicula",
-    "anio": 2026,
-    "sinopsis": "Esta es la sinopsis de prueba para verificar que la app lee bien los datos del JSON.",
-    "poster": "https://via.placeholder.com/300x450.png?text=Poster",
-    "banner": "https://via.placeholder.com/1280x720.png?text=Banner",
-    "generos": ["Acción", "Aventura"],
+    "titulo": "Prueba MikuTV",
+    "poster": "https://i.imgur.com/8Qz4z52.png",
     "opciones_video": [
       {
-        "servidor": "Servidor 1",
-        "url": "https://www.w3schools.com/html/mov_bbb.mp4"
+        "url": "https://flutter.github.io/assets-for-api-docs/assets/videos/bee.mp4"
       }
     ]
   }
